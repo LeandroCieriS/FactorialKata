@@ -1,0 +1,12 @@
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\bin\Debug\net6.0\FactorialKata.deps.json
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\bin\Debug\net6.0\FactorialKata.dll
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\bin\Debug\net6.0\FactorialKata.pdb
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.csproj.AssemblyReference.cache
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.AssemblyInfoInputs.cache
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.AssemblyInfo.cs
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.csproj.CoreCompileInputs.cache
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.dll
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\refint\FactorialKata.dll
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\FactorialKata.pdb
+C:\Users\lcieri\source\repos\FactorialKata\FactorialKata\obj\Debug\net6.0\ref\FactorialKata.dll
